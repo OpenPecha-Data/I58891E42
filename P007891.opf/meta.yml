@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W2DB5978
   title: གྲུབ་བརྙེས་ཀྱི་རྣལ་འབྱོར་པ་ཆེན་མོ་རིན་ཆེན་ཆོས་དབྱིངས་རྡོ་རྗེ་མཆོག་གི་ཞལ་གསུང་ཕྱོགས་བསྒྲིགས་
-  volume: ''
+  volume:
+    11299da46aeb44148f78d3362f5cb6f9:
+      image_group_id: I1PD27503
+      title: Volume 1 of grub brnyes kyi rnal 'byor pa chen mo rin chen chos dbyings
+        rdo rje mchog gi zhal gsung phyogs bsgrigs
+      volume_number: 1
+      total_pages: 345
   author: ''
+ebook_metadata:
+  title: གྲུབ་བརྙེས་ཀྱི་རྣལ་འབྱོར་པ་ཆེན་མོ་རིན་ཆེན་ཆོས་དབྱིངས་རྡོ་རྗེ་མཆོག་གི་ཞལ་གསུང་ཕྱོགས་བསྒྲིགས་
+  author: ''
+  sku: P007891
+  cover: cover.jpg
+  layers:
+  - pagination
