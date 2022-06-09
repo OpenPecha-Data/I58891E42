@@ -1,18 +1,28 @@
-id: P007891
+id: I58891E42
+source: https://library.bdrc.io
+source_file: null
 initial_creation_type: ocr
-created_at: 22/03/2020
-last_modified_at: 2021-12-17 12:47:34.092120
+imported: '2020-03-22T08:28:24+00:00'
+last_modified: '2022-06-09T07:08:04.261684+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
 source_metadata:
   id: bdr:W2DB5978
   title: གྲུབ་བརྙེས་ཀྱི་རྣལ་འབྱོར་པ་ཆེན་མོ་རིན་ཆེན་ཆོས་དབྱིངས་རྡོ་རྗེ་མཆོག་གི་ཞལ་གསུང་ཕྱོགས་བསྒྲིགས་
   author: ''
-  volumes:
-    11299da46aeb44148f78d3362f5cb6f9:
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  base:
+    '8429':
       image_group_id: I1PD27503
       title: Volume 1 of grub brnyes kyi rnal 'byor pa chen mo rin chen chos dbyings
         rdo rje mchog gi zhal gsung phyogs bsgrigs
-      volume_number: 1
       total_pages: 345
-      base_file: v001.txt
-  access: http://purl.bdrc.io/admindata/AccessOpen
-  restrictedInChina: false
+      order: 1
+      base_file: 8429.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
